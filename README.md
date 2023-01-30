@@ -1,3 +1,20 @@
+A Fitness App is a one stop for personal fitness knowledge. 
+Keep track of workouts programs, progress and nutrition.
+ Workout Log 
+Will have pre programmed workouts
+Can create custom workouts
+  - track weights and reps
+  - drop down menu 
+
+  Food log 
+Able to track calories 
+  - enter food amount and have it deduct from daily calorie count
+
+stretch goal:
+suggested nutrional guides
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
