@@ -1,34 +1,41 @@
 A Fitness App is a one stop for personal fitness knowledge. 
 Keep track of workouts programs, progress and nutrition.
 
-    Workout Log 
+    ##Workout Log 
  - Will have pre programmed workouts
  - Can create custom workouts
  - track weights and reps
  - drop down menu for exercises 
  - have images and quick video tutorial on how to properly execute the movement
 
-    Food log 
+    ##Food log 
  - Able to track calories 
  - enter food amount and have it deduct from daily calorie count
  - food suggestions
  - suggested nutrional guides
 
-    Formulas needed
+    ##Formulas needed
  - BMI
+
         weight (lb) / [height (in)]2 x 703
+
  - body fat %
+
         (1.20 x BMI) + (0.23 x Age) - 5.4 = Body Fat Percentage
+
  - Resting metabolic rate 
+
         (males) = 9.99 x weight (kg) + 6.25 x height (cm) - 4.92 x age(years) + 5; (RMR) kcal/day: 
+
         (females) = 9.99 x weight(kg) + 6.25 x height (cm) - 4.92 x age (years) - 161
  - 1 rep max 
+
         For your upper body, find the heaviest weight you can bench, deadlift or squat 4-to-6 times and plug it into this equation: (4-to-6RM x 1.1307) + 0.6998
 
         For lower body use this formula: (4-to-6RM x 1.09703) + 14.2546
 
 
-suggested nutrional guides
+
 
 
 
